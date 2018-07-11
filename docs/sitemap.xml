@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://opensource.nbb.be/posts/003-stark/</loc>
+    <lastmod>2018-07-11T21:47:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensource.nbb.be/posts/002-restful-api-design-guide/</loc>
+    <lastmod>2018-07-11T21:23:19+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://opensource.nbb.be/about/</loc>
-    <lastmod>2018-07-11T14:50:38+02:00</lastmod>
+    <lastmod>2018-07-11T16:29:50+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://opensource.nbb.be/contact/</loc>
-    <lastmod>2018-07-11T14:50:38+02:00</lastmod>
+    <lastmod>2018-07-11T16:29:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://opensource.nbb.be/posts/hello-world/</loc>
+    <loc>https://opensource.nbb.be/posts/001-hello-world/</loc>
     <lastmod>2018-07-11T14:46:38+02:00</lastmod>
   </url>
   
@@ -24,13 +34,13 @@
   
   <url>
     <loc>https://opensource.nbb.be/</loc>
-    <lastmod>2018-07-11T14:50:38+02:00</lastmod>
+    <lastmod>2018-07-11T21:47:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://opensource.nbb.be/posts/</loc>
-    <lastmod>2018-07-11T14:46:38+02:00</lastmod>
+    <lastmod>2018-07-11T21:47:56+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,29 @@
     <description>Recent content on Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jul 2018 14:50:38 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jul 2018 21:47:56 +0200</lastBuildDate>
     
 	<atom:link href="https://opensource.nbb.be/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stark</title>
+      <link>https://opensource.nbb.be/posts/003-stark/</link>
+      <pubDate>Wed, 11 Jul 2018 21:47:56 +0200</pubDate>
+      
+      <guid>https://opensource.nbb.be/posts/003-stark/</guid>
+      <description>Coming soon &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NBB RESTful API Design Guide</title>
+      <link>https://opensource.nbb.be/posts/002-restful-api-design-guide/</link>
+      <pubDate>Wed, 11 Jul 2018 21:23:19 +0200</pubDate>
+      
+      <guid>https://opensource.nbb.be/posts/002-restful-api-design-guide/</guid>
+      <description>About The National Bank of Belgium (NBB) has published its RESTful API design guide under the terms of the EUPL license.
+That guide serves as the current standard for the creation of all current Web APIs within the bank. It is an important design document for us because it regroups all the choices that have been made and those serve as a set of rules for our development teams.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -34,10 +53,10 @@ For more details about the history, refer to this post</description>
     
     <item>
       <title>Open Source at the National Bank of Belgium</title>
-      <link>https://opensource.nbb.be/posts/hello-world/</link>
+      <link>https://opensource.nbb.be/posts/001-hello-world/</link>
       <pubDate>Wed, 11 Jul 2018 14:46:38 +0200</pubDate>
       
-      <guid>https://opensource.nbb.be/posts/hello-world/</guid>
+      <guid>https://opensource.nbb.be/posts/001-hello-world/</guid>
       <description>A bit of history At the NBB, we have been using open source software for a very long time.
 Around 2016, we have convinced the necessary stakeholders (software development head, IT department head, legal department, IT security team) as well as the board of directors to allow us to start contributing more actively and officially to the open source community.
 Slow beginning From the moment we have received the approval of the board, we have started preparing to publish internal tools, libraries and reference documents in the open.</description>
