@@ -6,7 +6,10 @@ hidden: true
 description: contact page
 ---
 
-Of course different people participate in the NBB's open source initiative at different points in time, including contractors, but here's a short contact list in case you would like to get in touch with us:
+Open source maintainers of the National Bank of Belgium.
+<!--more-->
+
+On this page, you'll find a short contact list of people involved with the open source initiative of the National Bank of Belgium, in case you would like to get in touch with us.
 
 * Open source initiative lead
   * Sébastien Dubois

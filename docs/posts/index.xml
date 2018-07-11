@@ -26,8 +26,8 @@
       <pubDate>Wed, 11 Jul 2018 21:23:19 +0200</pubDate>
       
       <guid>https://opensource.nbb.be/posts/002-restful-api-design-guide/</guid>
-      <description>About The National Bank of Belgium (NBB) has published its RESTful API design guide under the terms of the EUPL license.
-That guide serves as the current standard for the creation of all current Web APIs within the bank. It is an important design document for us because it regroups all the choices that have been made and those serve as a set of rules for our development teams.</description>
+      <description>&lt;p&gt;The RESTful API Design Guide of the National Bank is now free and open source. Check out this post to know more about it.
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -36,9 +36,8 @@ That guide serves as the current standard for the creation of all current Web AP
       <pubDate>Wed, 11 Jul 2018 14:46:38 +0200</pubDate>
       
       <guid>https://opensource.nbb.be/posts/001-hello-world/</guid>
-      <description>A bit of history At the NBB, we have been using open source software for a very long time.
-Around 2016, we have convinced the necessary stakeholders (software development head, IT department head, legal department, IT security team) as well as the board of directors to allow us to start contributing more actively and officially to the open source community.
-Slow beginning From the moment we have received the approval of the board, we have started preparing to publish internal tools, libraries and reference documents in the open.</description>
+      <description>&lt;p&gt;Why the National Bank of Belgium cares about open source.
+&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -7,6 +7,8 @@ description: about page
 
 This is the home of the Open Source projects of the [National Bank of Belgium](https://www.nbb.be) (aka NBB).
 
+<!--more-->
+
 This site provides links to the different open source projects of the NBB as well as news about the open source initiatives of the bank.
 
 For more details about the history, refer to [this post](/posts/hello-world)

@@ -4,6 +4,9 @@ date: 2018-07-11T21:23:19+02:00
 draft: false
 ---
 
+The RESTful API Design Guide of the National Bank is now free and open source. Check out this post to know more about it.
+<!--more-->
+
 ## About
 The National Bank of Belgium (NBB) has published its [RESTful API design guide](https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki) under the terms of the [EUPL license](https://github.com/NationalBankBelgium/REST-API-Design-Guide/blob/master/LICENSE.md).
 
