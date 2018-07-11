@@ -1,7 +1,73 @@
-title = "Open Source @ National Bank of Belgium"
+title = "Open Source"
 baseURL = "https://opensource.nbb.be/"
+theme = "hyde-hyde"
+enableEmoji = true
 languageCode = "en-us"
 defaultContentLanguage = "en"
 publishDir = "docs"
 enableGitInfo = true
 enableRobotsTXT = true
+
+[params]
+  description = "@ National Bank of Belgium"
+  github_repo = "https://github.com/NationalBankBelgium/opensource/issues/new"
+  ghdocsrepo = "https://github.com/NationalBankBelgium/opensource/tree/master/docs"
+  AuthorName = "Sebastien Dubois"
+  GitHubUser = "dsebastien"
+
+# Configuration of the BlackFriday markdown parser: http://gohugo.io/getting-started/configuration/#configure-blackfriday
+[blackfriday]
+  hrefTargetBlank = false
+  angledQuotes = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+	name = "Home"
+	pre = "<i class='fa fa-home fa-fw'></i>"
+	url = "/"
+	weight = -10000
+
+  [[menu.main]]
+    identifier = "stark"
+	name = "Stark"
+	pre = "<i class='fab fa-github-square fa-fw'></i>"
+	url = "https://github.com/NationalBankBelgium/stark"
+	weight = -500
+
+  [[menu.main]]
+    identifier = "restful-api-design-guide"
+	name = "RESTful API Design Guide"
+	pre = "<i class='fab fa-github-square fa-fw'></i>"
+	url = "https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki"
+	weight = -400
+
+  [[menu.main]]
+    identifier = "csp"
+	name = "CSP Filter"
+	pre = "<i class='fab fa-github-square fa-fw'></i>"
+	url = "https://github.com/NationalBankBelgium/ContentSecurityPolicyFilter"
+	weight = -100
+	
+  [[menu.main]]
+    identifier = "nbbgh"
+	name = "NBB @ Github"
+	pre = "<i class='fab fa-github-square fa-fw'></i>"
+	url = "https://github.com/NationalBankBelgium"
+	weight = 50
+
+  [[menu.main]]
+    identifier = "contact"
+	name = "Contact"
+	pre = "<i class='fa fa-address-book fa-fw'></i>"
+	url = "/contact"
+	weight = 90
+
+  [[menu.main]]
+    identifier = "about"
+	pre = "<i class='fas fa-info-circle fa-fw'></i>"
+	name = "About"
+	url = "/about"
+	weight = 100
+
+

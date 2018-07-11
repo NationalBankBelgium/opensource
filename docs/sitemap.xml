@@ -3,12 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://opensource.nbb.be/about/</loc>
+    <lastmod>2018-07-11T14:50:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensource.nbb.be/contact/</loc>
+    <lastmod>2018-07-11T14:50:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensource.nbb.be/posts/hello-world/</loc>
+    <lastmod>2018-07-11T14:46:38+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://opensource.nbb.be/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://opensource.nbb.be/</loc>
+    <lastmod>2018-07-11T14:50:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://opensource.nbb.be/posts/</loc>
+    <lastmod>2018-07-11T14:46:38+02:00</lastmod>
     <priority>0</priority>
   </url>
   

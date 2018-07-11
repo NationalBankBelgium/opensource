@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Source @ National Bank of Belgium</title>
+    <title>Open Source</title>
     <link>https://opensource.nbb.be/</link>
-    <description>Recent content on Open Source @ National Bank of Belgium</description>
+    <description>Recent content on Open Source</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jul 2018 14:50:38 +0200</lastBuildDate>
     
 	<atom:link href="https://opensource.nbb.be/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://opensource.nbb.be/about/</link>
+      <pubDate>Wed, 11 Jul 2018 14:50:38 +0200</pubDate>
+      
+      <guid>https://opensource.nbb.be/about/</guid>
+      <description>This is the home of the Open Source projects of the National Bank of Belgium (aka NBB).
+This site provides links to the different open source projects of the NBB as well as news about the open source initiatives of the bank.
+For more details about the history, refer to this post</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://opensource.nbb.be/contact/</link>
+      <pubDate>Wed, 11 Jul 2018 14:50:38 +0200</pubDate>
+      
+      <guid>https://opensource.nbb.be/contact/</guid>
+      <description>Of course different people participate in the NBB&amp;rsquo;s open source initiative at different points in time, including contractors, but here&amp;rsquo;s a short contact list in case you would like to get in touch with us:
+ Open source initiative lead  Sébastien Dubois mail: sebastien.dubois at nbb.be twitter.com/dSebastien github.com/dSebastien   </description>
+    </item>
+    
+    <item>
+      <title>Open Source at the National Bank of Belgium</title>
+      <link>https://opensource.nbb.be/posts/hello-world/</link>
+      <pubDate>Wed, 11 Jul 2018 14:46:38 +0200</pubDate>
+      
+      <guid>https://opensource.nbb.be/posts/hello-world/</guid>
+      <description>A bit of history At the NBB, we have been using open source software for a very long time.
+Around 2016, we have convinced the necessary stakeholders (software development head, IT department head, legal department, IT security team) as well as the board of directors to allow us to start contributing more actively and officially to the open source community.
+Slow beginning From the moment we have received the approval of the board, we have started preparing to publish internal tools, libraries and reference documents in the open.</description>
+    </item>
     
   </channel>
 </rss>
