@@ -1,0 +1,7 @@
+title = "Open Source @ National Bank of Belgium"
+baseURL = "https://opensource.nbb.be/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+publishDir = "docs"
+enableGitInfo = true
+enableRobotsTXT = true
